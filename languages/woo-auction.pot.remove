@@ -1,0 +1,1015 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Auction\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 07:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Admin <admin@thenextbid.com>\n"
+"Language-Team: Dutch\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/wac-core-functions.php:49
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/wac-messages.php:8
+msgid ""
+"Add the full URL link of the listing of your property. In case of a Funda or "
+"Pararius URL, click on Import to automatically extract  information from the "
+"listing."
+msgstr ""
+
+#: includes/wac-messages.php:9
+msgid "Street name and house number"
+msgstr ""
+
+#: includes/wac-messages.php:10
+msgid "The city in which the object is located"
+msgstr ""
+
+#: includes/wac-messages.php:11
+msgid "The date from which the tenant can move in the object"
+msgstr ""
+
+#: includes/wac-messages.php:12
+msgid ""
+"The duration of the rental contract. If your option is not available, please "
+"indicate in additional information"
+msgstr ""
+
+#: includes/wac-messages.php:13
+msgid ""
+"The date and time on which the auction starts and people can bid (the "
+"auction will be visible after it has been approved by TheNextBid)"
+msgstr ""
+
+#: includes/wac-messages.php:14
+msgid ""
+"The date and time on which the auction will finish. We advise 9 o&#39;clock "
+"in the evening"
+msgstr ""
+
+#: includes/wac-messages.php:15
+#, php-format
+msgid "We advise 10% below the listing price to encourage bidding activity"
+msgstr ""
+
+#: includes/wac-messages.php:16
+msgid ""
+"If there is no listing of the property (yet), enter a reasonable (monthly) "
+"rental price."
+msgstr ""
+
+#: includes/wac-messages.php:17
+msgid ""
+"Indicate all relevant requirements for the tenant (e.g. income, age etc.)"
+msgstr ""
+
+#: includes/wac-messages.php:18
+msgid ""
+"Indicate all relevant additional information such as rental period, policies"
+msgstr ""
+
+#: includes/wac-messages.php:19 templates/shortcode/auction-form.php:56
+msgid "Deposit in Euro"
+msgstr ""
+
+#: includes/wac-messages.php:20
+msgid "Autobid"
+msgstr ""
+
+#: includes/wac-messages.php:22
+msgid ""
+"Auction succesfully submitted. We will check and approve the auction as soon "
+"as possible."
+msgstr ""
+
+#: includes/admin/class-wac-admin.php:22
+#: templates/shortcode/auction-form.php:80
+msgid "Tenant Requirements"
+msgstr ""
+
+#: includes/admin/class-wac-admin.php:24
+msgid "Tenant Requirements for auction."
+msgstr ""
+
+#: includes/admin/class-wac-admin.php:32
+#: templates/shortcode/auction-form.php:84
+msgid "Additional Information"
+msgstr ""
+
+#: includes/admin/class-wac-admin.php:34
+msgid "Additional Information for auction."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:109
+msgid "There are no live auctions at the moment"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:196
+#: templates/single-product/updatetimeleft.php:28
+#: templates/widgets/content-widget-auction.php:44
+msgid "Ends in:"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:213
+msgid "Auction Closed"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:275
+#: templates/shortcode/auction-form.php:166
+msgid "Link to original listing"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:349
+msgid "Auction closed"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:364
+msgid "No bids received."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:365
+msgid ""
+"No bids have been received for your auction. We will contact you to discuss "
+"potential causes and to find a solution to solve this for your future "
+"auctions. Can't wait"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:365
+msgid "Contact us"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:372
+msgid "Closed, but not done."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:373
+msgid "The auction is closed, please check your"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:373
+msgid "dashboard"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:373
+msgid ""
+"for the next steps which could be a payment or directly contacting the "
+"bidders."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:395
+msgid "Yes!"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:396
+msgid ""
+"You are the highest bidder and are therefore considered first for granting "
+"your dream home! The landlord will contact you as soon as possible."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:404
+msgid "Almost the highest bidder!"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:405
+msgid ""
+"You are one of the five highest bidders. The landlord will consider you "
+"after approaching the highest bidder(s) first."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:413
+msgid "Sorry, try again."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:414
+msgid ""
+"You are not one of the five highest bidders. The landlord will only consider "
+"your bid when the other bidders are not accepted. We advise you try another "
+"auction."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:478
+msgid "How to Bid?"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:479
+msgid ""
+"We reset the auction timer every time a bid is placed in the last 10 minutes,"
+" so no stress!"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:483
+msgid "Register FREE to bid on this fantastic rental home."
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:511
+msgid "Notify me when this auction is starts"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:513
+msgid "Notify me when this auction is about to end"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:518
+msgid "Your email"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:520
+msgid "Subscribe"
+msgstr ""
+
+#: includes/classes/class-wac-actions-overwrite.php:529
+#, php-format
+msgid "Your email \"%s\" is already subscribed"
+msgstr ""
+
+#: includes/classes/class-wac-auction-commission.php:25
+msgid "Auction Commission"
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:55
+msgid "You can only bid on 3 Live Auctions at the same time."
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:60
+#, php-format
+msgid "Bid more than 50% of listing price is not allowed!"
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:66
+#, php-format
+msgid ""
+"Please enter a bid that is higher than your own highest bid currently at "
+"this auction. (%s)"
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:77
+msgid ""
+"The amount of your (Auto) Bid was already entered through an Auto Bid of "
+"another Bidder."
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:84
+msgid "Please enter a Bid that has not been placed yet."
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:91
+msgid ""
+"You cannot Bid lower than the Listing Price if the Current Auction Price is "
+"already equal to or higher than the Listing Price"
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:111
+msgid "Auto bid"
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:170
+#: includes/classes/class-wac-autobid.php:180
+msgid "You placed a new Auto Bid!"
+msgstr ""
+
+#: includes/classes/class-wac-autobid.php:189
+msgid "Please enter an auto bid that is above the current auction price."
+msgstr ""
+
+#: includes/classes/class-wac-start-auction.php:103
+msgid ""
+"You do not have enough permission to access this page. Please logged in "
+"first."
+msgstr ""
+
+#: includes/classes/class-wac-start-auction.php:111
+msgid ""
+"You do not have enough permission to submit a new product. Please contact "
+"site administrator."
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:66
+msgid "Auction Detail"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:70
+msgid "Auction Reports"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:74
+msgid "Account Details"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:78
+#: templates/shortcode/paycommission-form.php:88
+#: templates/shortcode/vendor-profile/auction-detail.php:27
+msgid "Pay Commission"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:161
+#: templates/single-product/list-bids.php:86
+msgid "Start auction"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:170
+msgid "Dashboard"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:179
+msgid "Auction reports"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:188
+msgid "Account details"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:210
+msgid "All Auctions"
+msgstr ""
+
+#: includes/classes/class-wac-vendor-profile.php:219
+#: templates/shortcode/auction-form.php:62
+msgid "Start Auction"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:30
+msgid "Display a list of a customer's recently viewed auctions."
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:31
+msgid "Recent Viewed Auctions"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:36
+#: templates/shortcode/auction-form.php:19
+msgid "Title"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:41
+msgid "Display"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:43
+msgid "Viewed Auctions"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:44
+msgid "Live Auctions"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:50
+msgid "Show"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:52
+msgid "Last Auctions"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:53
+msgid "Featured Auctions"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:59
+msgid "Show not-started auctions"
+msgstr ""
+
+#: includes/classes/class-wac-viewauction-widget.php:67
+msgid "Number of auctions to show"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:11
+msgid "Object details"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:13
+msgid "Weblink of listing"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:15
+msgid "Fetch"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:24
+#: templates/shortcode/vendor-profile/account-details.php:55
+msgid "City"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:37
+msgid "Upload Auction Image"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:42
+msgid "Object Available From"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:46
+msgid "Rental Period"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:48
+msgid "Select Rental Period"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:49
+msgid "Indefinite"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:50
+msgid "1 Year"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:51
+msgid "2 Years"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:52
+msgid "Otherwise, additional information"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:66
+msgid "Auction Close"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:70
+msgid "Listing price in Euro"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:74
+msgid "Start price in Euro"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:78
+msgid "Other Information"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:88
+msgid "Questions? Please call +31(0) 202 258 340"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:91
+msgid "I understand and accept the terms and conditions and the"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:91
+msgid "five rules"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:91
+msgid "for holding an auction."
+msgstr ""
+
+#: templates/shortcode/auction-form.php:94
+#: templates/shortcode/auction-form.php:109
+msgid "Preview Auction"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:118
+msgid "Start Price:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:126
+msgid "Auction will start in"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:129
+msgid "Auction already started"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:137
+msgid "Key information"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:140
+msgid "City:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:144
+msgid "Listing Price:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:148
+msgid "Deposit:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:152
+msgid "Available from:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:156
+msgid "Rental Period:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:160
+msgid "Listed By:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:171
+msgid "Additional (financial) information:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:175
+msgid "Tenant Requirements:"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:182
+msgid "Bid History"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:188
+msgid "Make Changes"
+msgstr ""
+
+#: templates/shortcode/auction-form.php:189
+msgid "Submit"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:30
+msgid "Payment Status:"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:34
+msgid "Commission has been already paid"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:35
+msgid "Transaction ID: <strong>{$mollie_txnid}</strong>"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:40
+#: templates/shortcode/paycommission-form.php:43
+msgid "Please try again!"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:71
+#: templates/shortcode/vendor-profile/auction-reports.php:11
+msgid "Highest Bid"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:72
+#: templates/shortcode/vendor-profile/auction-reports.php:12
+msgid "Listing Price"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:73
+msgid "Commission (highest bid - listing price)"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:74
+msgid "VAT (21%)"
+msgstr ""
+
+#: templates/shortcode/paycommission-form.php:75
+msgid "Commission incl. VAT"
+msgstr ""
+
+#: templates/single-product/auction-timeleft.php:13
+#: templates/single-product/updatetimeleft.php:30
+#: templates/widgets/content-widget-auction.php:46
+#: templates/single-product/add-to-cart/auction-vendor.php:60
+#: templates/single-product/add-to-cart/auction.php:105
+msgid "d"
+msgstr ""
+
+#: templates/single-product/auction-timeleft.php:15
+#: templates/single-product/updatetimeleft.php:31
+#: templates/widgets/content-widget-auction.php:47
+#: templates/single-product/add-to-cart/auction-vendor.php:62
+#: templates/single-product/add-to-cart/auction.php:107
+msgid "h"
+msgstr ""
+
+#: templates/single-product/auction-timeleft.php:17
+#: templates/single-product/updatetimeleft.php:32
+#: templates/widgets/content-widget-auction.php:48
+#: templates/single-product/add-to-cart/auction-vendor.php:64
+#: templates/single-product/add-to-cart/auction.php:109
+msgid "m"
+msgstr ""
+
+#: templates/single-product/auction-timeleft.php:19
+#: templates/single-product/updatetimeleft.php:33
+#: templates/widgets/content-widget-auction.php:49
+#: templates/single-product/add-to-cart/auction-vendor.php:66
+#: templates/single-product/add-to-cart/auction.php:111
+msgid "s"
+msgstr ""
+
+#: templates/single-product/auction-timeleft.php:23
+msgid "Auction ends: "
+msgstr ""
+
+#: templates/single-product/list-bids.php:30
+#: templates/single-product/list-bids.php:98
+#: templates/shortcode/vendor-profile/auction-detail.php:38
+msgid "There is no bid for this auction"
+msgstr ""
+
+#: templates/single-product/list-bids.php:37
+msgid "Bid Amount"
+msgstr ""
+
+#: templates/single-product/list-bids.php:38
+msgid "Username"
+msgstr ""
+
+#: templates/single-product/list-bids.php:39
+msgid "Datetime"
+msgstr ""
+
+#: templates/single-product/max-bidder.php:8
+msgid "Bid up: "
+msgstr ""
+
+#: templates/single-product/max-bidder.php:8
+msgid "Bid up: No bid up"
+msgstr ""
+
+#: templates/single-product/max-bidder.php:14
+#, php-format
+msgid "Overtime: %s min"
+msgstr ""
+
+#: templates/single-product/max-bidder.php:14
+msgid "No overtime"
+msgstr ""
+
+#: templates/single-product/max-bidder.php:19
+msgid "Total used from pool of money for automatic bid up."
+msgstr ""
+
+#: templates/single-product/max-bidder.php:20
+msgid ""
+"Number of minutes added to the auction if a bid is made within the overtime "
+"range."
+msgstr ""
+
+#: templates/single-product/max-bidder.php:35
+msgid " You are currently the highest bidder for this auction"
+msgstr ""
+
+#: templates/single-product/max-bidder.php:35
+msgid "Refresh the page regularly to see if you are still the highest bidder"
+msgstr ""
+
+#: templates/single-product/max-bidder.php:37
+msgid ""
+"If your bid is higher or equivalent to the reserve price, your bid will "
+"match the reserve price with the remaining saved and used automatically to "
+"outbid a competitors bid."
+msgstr ""
+
+#: templates/single-product/max-bidder.php:40
+#, php-format
+msgid "Your maximum %1$s: %2$s"
+msgstr ""
+
+#: templates/single-product/updatetimeleft.php:19
+#: templates/widgets/content-widget-auction.php:33
+msgid "Start:"
+msgstr ""
+
+#: templates/single-product/updatetimeleft.php:39
+#: templates/widgets/content-widget-auction.php:57
+msgid "Closed"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:25
+msgid "​Auction - Approved"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:30
+msgid "Email to Landlord/Agent when auction approved and online."
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:33
+msgid "Your request has been approved"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:35
+msgid "Your {sitename} {account_name} Auction Request is Approved and Online"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:138
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:140
+#: includes/classes/emails/class-wac-auction-closed.php:130
+#: includes/classes/emails/class-wac-auction-live-tenants.php:132
+#: includes/classes/emails/class-wac-auction-live-vendor.php:125
+#: includes/classes/emails/class-wac-auction-submitted.php:124
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:140
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:142
+#: includes/classes/emails/class-wac-auction-closed.php:132
+#: includes/classes/emails/class-wac-auction-live-tenants.php:134
+#: includes/classes/emails/class-wac-auction-live-vendor.php:127
+#: includes/classes/emails/class-wac-auction-submitted.php:126
+msgid "Enable this email notification"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:145
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:147
+#: includes/classes/emails/class-wac-auction-closed.php:137
+#: includes/classes/emails/class-wac-auction-live-tenants.php:139
+#: includes/classes/emails/class-wac-auction-live-vendor.php:132
+#: includes/classes/emails/class-wac-auction-submitted.php:131
+msgid "Subject"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:147
+#: includes/classes/emails/class-wac-auction-approved.php:154
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:149
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:156
+#: includes/classes/emails/class-wac-auction-closed.php:139
+#: includes/classes/emails/class-wac-auction-closed.php:146
+#: includes/classes/emails/class-wac-auction-live-tenants.php:141
+#: includes/classes/emails/class-wac-auction-live-tenants.php:148
+#: includes/classes/emails/class-wac-auction-live-vendor.php:134
+#: includes/classes/emails/class-wac-auction-live-vendor.php:141
+#: includes/classes/emails/class-wac-auction-submitted.php:133
+#: includes/classes/emails/class-wac-auction-submitted.php:140
+#, php-format
+msgid "Default: <code>%s</code>."
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:159
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:161
+#: includes/classes/emails/class-wac-auction-closed.php:151
+#: includes/classes/emails/class-wac-auction-live-tenants.php:153
+#: includes/classes/emails/class-wac-auction-live-vendor.php:146
+#: includes/classes/emails/class-wac-auction-submitted.php:145
+msgid "Email type"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-approved.php:161
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:163
+#: includes/classes/emails/class-wac-auction-closed.php:153
+#: includes/classes/emails/class-wac-auction-live-tenants.php:155
+#: includes/classes/emails/class-wac-auction-live-vendor.php:148
+#: includes/classes/emails/class-wac-auction-submitted.php:147
+msgid "Choose the email format to send."
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:24
+msgid "​Auction - Closed for Tenants"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:29
+msgid "Email to 2nd to 5th bidders, when auction closed."
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:32
+msgid "Auction has been closed"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:34
+msgid "{auction_title} auction has been closed."
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:154
+#: includes/classes/emails/class-wac-auction-closed.php:144
+#: includes/classes/emails/class-wac-auction-live-tenants.php:146
+#: includes/classes/emails/class-wac-auction-live-vendor.php:139
+#: includes/classes/emails/class-wac-auction-submitted.php:138
+msgid "Email Heading"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed.php:24
+msgid "​Auction - Closed"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed.php:29
+msgid "Email to Landlord/Agent when auction closed and ready to pay."
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed.php:32
+msgid "Your auction has been closed, ‘please pay’"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-closed.php:34
+msgid ""
+"Your TheNextBid {auction_title} Auction is Closed, Get Your Auction Report "
+"Now!"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-live-tenants.php:24
+msgid "​Auction - Live for Tenants"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-live-tenants.php:29
+msgid "Email to All Tenants when auction status changed to live."
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-live-tenants.php:32
+msgid "Auction Live for Tenants"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-live-tenants.php:34
+msgid "Your {sitename} subscribed {auction_title} Auction is Online"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:24
+msgid "​Auction - Live for Vendor"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:29
+msgid "Email to Vendor when auction status changed to live."
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:32
+msgid "Your auction is now Live"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:34
+msgid "Your {sitename} {auction_title} Auction is Online"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-submitted.php:25
+msgid "​Auction - Submitted"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-submitted.php:30
+msgid "On auction submitted by Landlord/Agent, automation email to Agent"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-submitted.php:33
+msgid "You have submitted an auction request"
+msgstr ""
+
+#: includes/classes/emails/class-wac-auction-submitted.php:35
+msgid "Your TheNextBid {auction_title} Auction Request Submitted"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:19
+msgid "First Name"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:25
+msgid "Last Name"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:31
+msgid "Company Name"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:37
+msgid "Email Address"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:43
+#: templates/shortcode/vendor-profile/auction-detail.php:55
+msgid "Phone"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:49
+msgid "Billing Address"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:61
+msgid "Zip Code"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:67
+msgid "Profile Pic"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:72
+msgid "Upload"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/account-details.php:73
+msgid "Replace"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:8
+msgid "Not found"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:14
+msgid "No Auction found with id."
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:18
+msgid "Not Authorized to view"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:26
+msgid "Please check and pay your auction commission on the following page:"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:48
+msgid "Name"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:49
+msgid "Highest bid"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:50
+msgid "Income"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:51
+msgid "Source of inc."
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:52
+msgid "DoB"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:53
+msgid "Housemates"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-detail.php:54
+msgid "E-mail"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-reports.php:10
+#: templates/shortcode/vendor-profile/dashboard.php:10
+msgid "Auctions"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-reports.php:13
+msgid "# bidders"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-reports.php:14
+msgid "# bids"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-reports.php:15
+msgid "Closing Date"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-reports.php:16
+#: templates/shortcode/vendor-profile/dashboard.php:16
+msgid "Auction Report"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-reports.php:42
+msgid "Note: Only closed auctions are visible in this overview."
+msgstr ""
+
+#: templates/shortcode/vendor-profile/auction-reports.php:45
+msgid "No Auction to display!"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/dashboard.php:11
+msgid "Status"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/dashboard.php:12
+msgid "Listing price"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/dashboard.php:13
+msgid "Current price"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/dashboard.php:14
+msgid "Time"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/dashboard.php:15
+msgid "Billing Status"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/dashboard.php:40
+msgid "No Auction to display, Click on Start Auction to generate new Auction!"
+msgstr ""
+
+#: templates/shortcode/vendor-profile/vendor-allowed.php:1
+msgid "Login with Landlord account!"
+msgstr ""
+
+#: templates/single-product/add-to-cart/auction-vendor.php:53
+#: templates/single-product/add-to-cart/auction.php:98
+msgid "The auction is not available"
+msgstr ""
+
+#: templates/single-product/add-to-cart/auction-vendor.php:55
+#: templates/single-product/add-to-cart/auction.php:100
+msgid "Time left to start auction:"
+msgstr ""
+
+#: templates/single-product/add-to-cart/auction.php:72
+msgid "Bid"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woocommerce Auction"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create auctions, manage commissions and frontend profiles (Vendor, Tenant)."
+msgstr ""
+
+#. Author of the plugin
+msgid "Deftsoft"
+msgstr ""

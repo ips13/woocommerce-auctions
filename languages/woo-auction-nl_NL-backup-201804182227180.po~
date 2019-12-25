@@ -1,0 +1,1251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Auction\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-17 12:36+0000\n"
+"PO-Revision-Date: 2018-04-18 12:04+0000\n"
+"Last-Translator: Admin <admin@thenextbid.com>\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-auctions.php:56
+msgid ""
+"Woocommerce Auction plugin requires <a href=\"http://wordpress."
+"org/extend/plugins/woocommerce/\">WooCommerce</a>!"
+msgstr "Woocommerce Auction plugin vereist Woocommerce"
+
+#: includes/wac-messages.php:9
+msgid ""
+"Add the full URL link of the listing of your property. In case of a Funda or "
+"Pararius URL, click on Import to automatically extract  information from the "
+"listing."
+msgstr ""
+"Voeg de URL link toe van de advertentie van je object. In het geval van een "
+"Funda of Pararius advertentie kunt u op HAAL OP klikken om automatisch de "
+"informatie van de advertentie in te laden."
+
+#: includes/wac-messages.php:10
+msgid "Street name and house number"
+msgstr "Straatnaam en huisnummer"
+
+#: includes/wac-messages.php:11
+msgid "The city in which the object is located"
+msgstr "De stad waar het object is gelegen"
+
+#: includes/wac-messages.php:12
+msgid "The date from which the tenant can move in the object"
+msgstr "De datum vanaf wanneer de huurder de woning kan betrekken"
+
+#: includes/wac-messages.php:13
+msgid ""
+"The duration of the rental contract. If your option is not available, please "
+"indicate in additional information"
+msgstr ""
+"De duur van het huurcontract. Indien je optie niet beschikbaar is, vul dit "
+"dan bij de additionele informatie in"
+
+#: includes/wac-messages.php:14
+msgid ""
+"The date and time on which the auction starts and people can bid (the "
+"auction will be visible after it has been approved by TheNextBid)"
+msgstr ""
+"De datum en tijd waarop de veiling start en mensen kunnen bieden (de veiling "
+"wordt zichtbaar nadat deze is goedgekeurd door TheNextBid)"
+
+#: includes/wac-messages.php:15
+msgid ""
+"The date and time on which the auction will finish. We advise 9 o&#39;clock "
+"in the evening"
+msgstr ""
+"De datum en tijd waarop de veiling zal eindigen. Wij adviseren 9 uur in de "
+"avond"
+
+#: includes/wac-messages.php:16
+#, php-format
+msgid "We advise 10% below the listing price to encourage bidding activity"
+msgstr ""
+"Wij adviseren 10% beneden de advertentieprijs om meer biedingen te ontvangen"
+
+#: includes/wac-messages.php:17
+msgid ""
+"If there is no listing of the property (yet), enter a reasonable (monthly) "
+"rental price."
+msgstr ""
+"Indien er (nog) geen advertentie van het object is, geef hier dan een "
+"redelijke maandelijkse huurprijs op."
+
+#: includes/wac-messages.php:18
+msgid "Indicate all relevant requirements for the tenant (e.g. income)"
+msgstr "Noteer alle relevante vereisten voor de huurder (bijv. inkomen)"
+
+#: includes/wac-messages.php:19
+msgid ""
+"Indicate all relevant additional information such as rental period, policies"
+msgstr "Geef alle relevante additionele informatie, zoals over de huurperiode"
+
+#: includes/wac-messages.php:20 includes/admin/class-wac-admin.php:29
+#: includes/admin/class-wac-admin.php:32
+#: templates/shortcode/auction-form.php:56
+msgid "Deposit in Euro"
+msgstr "Borg in Euro"
+
+#: includes/wac-messages.php:21
+msgid ""
+"The amount of an auto bid is the maximum price you want to pay for the "
+"rental home. The advantage of an auto bid is that the maximum price has not "
+"been directly bid, but it automatically outbids the current highest bid and "
+"subsequently outbids any new bids with minimal increments until the highest "
+"bid passes the maximum amount of the submitted auto bid."
+msgstr ""
+"Het bedrag van een autobod is de maximum prijs die je wilt betalen voor de "
+"woning. Het voordeel van een auto bod is, dat je de maximumprijs niet direct "
+"bied, maar je automatisch het huidige hoogste bod overbied en alle biedingen "
+"die na jouw bod komen, zolang zij onder jouw maximum bod blijven."
+
+#: includes/wac-messages.php:23
+msgid ""
+"Auction succesfully submitted. We will check and approve the auction as soon "
+"as possible."
+msgstr ""
+"Veilingverzoek succesvol verzonden. We zullen de veiling zo snel mogelijk "
+"checken en goedkeuren."
+
+#: includes/wac-messages.php:24
+msgid "Login required!"
+msgstr "Inloggen vereist!"
+
+#: includes/wac-messages.php:25
+#, php-format
+msgid ""
+"Please <a href='%s'>Login</a> or <a href='%s'>Register</a> if you want to "
+"participate in the auction"
+msgstr ""
+"<a href='%s'>Log in</a> of <a href='%s'>registreer</a> als je wilt deelnemen "
+"aan de veiling"
+
+#: includes/wac-messages.php:30
+msgid "Please select Object Available From"
+msgstr "Selecteer de datum vanaf wanneer de woning beschikbaar is"
+
+#: includes/wac-messages.php:31
+msgid "Please select Auction Date Range"
+msgstr "Selecteerd de veiling data"
+
+#: includes/wac-messages.php:32
+msgid "Please select Start Price"
+msgstr "Selecteer de startprijs"
+
+#: includes/wac-messages.php:33
+msgid "Please select Listing Price"
+msgstr "Selecteer de advertentieprijs"
+
+#: includes/wac-messages.php:34 templates/shortcode/auction-form.php:48
+msgid "Select Rental Period"
+msgstr "Selecteer huurperiode"
+
+#: includes/wac-messages.php:35
+msgid "City required"
+msgstr "Stad vereist"
+
+#: includes/wac-messages.php:36
+msgid "Deposit price required"
+msgstr "Borgbedrag vereist"
+
+#: includes/wac-messages.php:37
+msgid "Please accept auction rules"
+msgstr "Accepteer alsjeblieft de veilingregels"
+
+#: includes/wac-messages.php:43
+msgid "Search for Auctions"
+msgstr "Zoek naar veilingen"
+
+#: includes/wac-messages.php:44
+msgid "Searching..."
+msgstr "Zoeken..."
+
+#: includes/wac-core-functions.php:49
+#, php-format
+msgid "%s does not exist."
+msgstr "%s bestaat niet."
+
+#: includes/classes/class-wac-auction-commission.php:25
+msgid "Auction Commission"
+msgstr "Veilingcomissie"
+
+#: includes/classes/class-wac-viewauction-widget.php:30
+msgid "Display a list of a customer's recently viewed auctions."
+msgstr "Laat een lijst zien met de door gebruiker recent bezochte veilingen."
+
+#: includes/classes/class-wac-viewauction-widget.php:31
+msgid "Recent Viewed Auctions"
+msgstr "Recent bekeken veilingen"
+
+#: includes/classes/class-wac-viewauction-widget.php:36
+#: templates/shortcode/auction-form.php:19
+msgid "Title"
+msgstr "Titel"
+
+#: includes/classes/class-wac-viewauction-widget.php:41
+msgid "Display"
+msgstr "Laat zien"
+
+#: includes/classes/class-wac-viewauction-widget.php:43
+msgid "Viewed Auctions"
+msgstr "Bekeken veilingen"
+
+#: includes/classes/class-wac-viewauction-widget.php:44
+msgid "Live Auctions"
+msgstr "Live veilingen"
+
+#: includes/classes/class-wac-viewauction-widget.php:50
+msgid "Show"
+msgstr "Laat zien"
+
+#: includes/classes/class-wac-viewauction-widget.php:52
+msgid "Last Auctions"
+msgstr "Recente veilingen"
+
+#: includes/classes/class-wac-viewauction-widget.php:53
+msgid "Featured Auctions"
+msgstr "Uitgelichte veilingen"
+
+#: includes/classes/class-wac-viewauction-widget.php:59
+msgid "Show not-started auctions"
+msgstr "Laat niet-gestarte veilingen zien"
+
+#: includes/classes/class-wac-viewauction-widget.php:67
+msgid "Number of auctions to show"
+msgstr "Aantal veilingen om te laten zien"
+
+#: includes/classes/class-wac-vendor-profile.php:66
+msgid "Auction Detail"
+msgstr "Veiling detail"
+
+#: includes/classes/class-wac-vendor-profile.php:70
+msgid "Auction Reports"
+msgstr "Veilingrapporten"
+
+#: includes/classes/class-wac-vendor-profile.php:74
+msgid "Account Details"
+msgstr "Account Details"
+
+#: includes/classes/class-wac-vendor-profile.php:78
+#: templates/shortcode/paycommission-form.php:88
+#: templates/shortcode/vendor-profile/auction-detail.php:27
+msgid "Pay Commission"
+msgstr "Betaal commissie"
+
+#: includes/classes/class-wac-vendor-profile.php:161
+#: templates/single-product/list-bids.php:86
+msgid "Start auction"
+msgstr "Start veiling"
+
+#: includes/classes/class-wac-vendor-profile.php:170
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: includes/classes/class-wac-vendor-profile.php:179
+msgid "Auction reports"
+msgstr "Veilingrapporten"
+
+#: includes/classes/class-wac-vendor-profile.php:188
+msgid "Account details"
+msgstr "Account details"
+
+#: includes/classes/class-wac-vendor-profile.php:210
+msgid "All Auctions"
+msgstr "Alle veilingen"
+
+#: includes/classes/class-wac-vendor-profile.php:219
+#: templates/shortcode/auction-form.php:62
+msgid "Start Auction"
+msgstr "Start veiling"
+
+#: includes/classes/class-wac-vendor-profile.php:421
+#: templates/widgets/content-widget-auction.php:58
+#: templates/single-product/updatetimeleft.php:39
+msgid "Closed"
+msgstr "Gesloten"
+
+#: includes/classes/class-wac-vendor-profile.php:422
+msgid "Pending for Approval"
+msgstr "Wachten op goedkeuring"
+
+#: includes/classes/class-wac-vendor-profile.php:423
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+#: includes/classes/class-wac-vendor-profile.php:424
+msgid "Draft"
+msgstr "Draft"
+
+#: includes/classes/class-wac-vendor-profile.php:425
+msgid "Live"
+msgstr "Live"
+
+#: includes/classes/class-wac-vendor-profile.php:583
+msgid "Company Name required!"
+msgstr "Bedrijfsnaam vereist!"
+
+#: includes/classes/class-wac-vendor-profile.php:587
+msgid "Email is required!"
+msgstr "E-mailadres is vereist!"
+
+#: includes/classes/class-wac-vendor-profile.php:590
+msgid "Try with another email!"
+msgstr "Probeer met een ander e-mailadres"
+
+#: includes/classes/class-wac-vendor-profile.php:600
+msgid "Your new password can't be empty!"
+msgstr "Je nieuwe wachtwoord kan niet leeg zijn!"
+
+#: includes/classes/class-wac-vendor-profile.php:603
+msgid "Enter password min. 6 characters!"
+msgstr "Type een wachtwoord met minimaal 6 karakters in!"
+
+#: includes/classes/class-wac-vendor-profile.php:607
+msgid "Your current password incorrect!"
+msgstr "Je huidige wachtwoord is niet correct!"
+
+#: includes/classes/class-wac-vendor-profile.php:629
+msgid "Password updated!"
+msgstr "Wachtwoord opgeslagen!"
+
+#: includes/classes/class-wac-vendor-profile.php:638
+msgid "Profile Saved Successfully!"
+msgstr "Profiel succesvol opgeslagen!"
+
+#: includes/classes/class-wac-start-auction.php:103
+msgid ""
+"You do not have enough permission to access this page. Please logged in "
+"first."
+msgstr ""
+"Je hebt geen toestemming om deze pagina te bezoeken. Log alsjeblieft eerst "
+"in."
+
+#: includes/classes/class-wac-start-auction.php:111
+msgid ""
+"You do not have enough permission to submit a new product. Please contact "
+"site administrator."
+msgstr ""
+"Je hebt geen toestemming om een product aan te melden. Contacteer de site "
+"admin."
+
+#: includes/classes/class-wac-autobid.php:60
+#, php-format
+msgid "Bid more than 50% of listing price is not allowed!"
+msgstr "Meer dan 50% over de advertentieprijs heen bieden is niet toegestaan!"
+
+#: includes/classes/class-wac-autobid.php:66
+#, php-format
+msgid ""
+"Please enter a bid that is higher than your own highest bid currently at "
+"this auction. (%s)"
+msgstr ""
+"Vul alsjeblieft een bod in dat hoger is dan je huidige bod van deze veiling. "
+"(%s)"
+
+#: includes/classes/class-wac-autobid.php:77
+msgid ""
+"The amount of your (Auto) Bid was already entered through an Auto Bid of "
+"another Bidder."
+msgstr ""
+"Het bedrag van je (Auto) bod is al geboden met een auto bod van een andere "
+"bieder."
+
+#: includes/classes/class-wac-autobid.php:84
+msgid "Please enter a Bid that has not been placed yet."
+msgstr "Vul alsjeblieft een nog niet geplaatst bod in."
+
+#: includes/classes/class-wac-autobid.php:91
+msgid ""
+"You cannot Bid lower than the Listing Price if the Current Auction Price is "
+"already equal to or higher than the Listing Price"
+msgstr ""
+"Je kunt niet lager bieden dan de advertentieprijs als het huidige hoogste "
+"bod al gelijk of hoger is dan de advertentieprijs"
+
+#: includes/classes/class-wac-autobid.php:111
+msgid "Auto bid"
+msgstr "Auto bod"
+
+#: includes/classes/class-wac-autobid.php:169
+msgid "You have successfully placed an auto bid."
+msgstr "Je hebt succesvol een auto bod geplaatst!"
+
+#: includes/classes/class-wac-autobid.php:179
+msgid "You placed a new Auto Bid!"
+msgstr "Je hebt een nieuw auto bod geplaatst!"
+
+#: includes/classes/class-wac-autobid.php:188
+msgid "Please enter an auto bid that is above the current auction price."
+msgstr "Vul alsjeblieft een auto bod die boven het huidige hoogste bod ligt."
+
+#: includes/classes/class-wac-actions-overwrite.php:109
+msgid "There are no live auctions at the moment"
+msgstr "Er zijn geen live veilingen op dit moment"
+
+#: includes/classes/class-wac-actions-overwrite.php:196
+#: templates/widgets/content-widget-auction.php:45
+#: templates/single-product/updatetimeleft.php:28
+msgid "Ends in:"
+msgstr "Eindigt binnen:"
+
+#: includes/classes/class-wac-actions-overwrite.php:213
+msgid "Auction Closed"
+msgstr "Veiling gesloten"
+
+#: includes/classes/class-wac-actions-overwrite.php:228
+#: templates/shortcode/auction-form.php:137
+msgid "Key information"
+msgstr "Belangrijkste informatie"
+
+#: includes/classes/class-wac-actions-overwrite.php:275
+#: templates/shortcode/auction-form.php:166
+msgid "Link to original listing"
+msgstr "Link naar originele advertentie"
+
+#: includes/classes/class-wac-actions-overwrite.php:349
+msgid "Auction closed"
+msgstr "Veiling gesloten"
+
+#: includes/classes/class-wac-actions-overwrite.php:375
+msgid "No bids received."
+msgstr "Geen biedingen ontvangen."
+
+#: includes/classes/class-wac-actions-overwrite.php:376
+msgid ""
+"No bids have been received for your auction. We will contact you to discuss "
+"potential causes and to find a solution to solve this for your future "
+"auctions. Can't wait"
+msgstr ""
+"Geen biedingen zijn ontvangen voor deze veiling. We nemen contact met je op "
+"om de mogelijke oorzaken te bespreken en voor het vinden van een oplossing "
+"om dit in de toekomst te voorkomen."
+
+#: includes/classes/class-wac-actions-overwrite.php:376
+msgid "Contact us"
+msgstr "Neem contact met ons op"
+
+#: includes/classes/class-wac-actions-overwrite.php:383
+msgid "Closed, but not done."
+msgstr "Gesloten, maar nog niet klaar."
+
+#: includes/classes/class-wac-actions-overwrite.php:384
+msgid "The auction is closed, please check your"
+msgstr "De veiling is gesloten, check alsjeblieft"
+
+#: includes/classes/class-wac-actions-overwrite.php:384
+msgid "dashboard"
+msgstr "dashboard"
+
+#: includes/classes/class-wac-actions-overwrite.php:384
+msgid ""
+"for the next steps which could be a payment or directly contacting the "
+"bidders."
+msgstr ""
+"voor de volgende stappen, dat een betaling van de commissie en/of het direct "
+"contacteren van de bieders kan zijn."
+
+#: includes/classes/class-wac-actions-overwrite.php:406
+msgid "Yes!"
+msgstr "Yes!"
+
+#: includes/classes/class-wac-actions-overwrite.php:407
+msgid ""
+"You are the highest bidder and are therefore considered first for granting "
+"your dream home! The landlord will contact you as soon as possible."
+msgstr ""
+"Je bent de hoogste bieder en wordt daarom als eerste overwogen voor de "
+"gunning van deze woning! De makelaar of verhuurder neemt zo snel mogelijk "
+"contact met je op."
+
+#: includes/classes/class-wac-actions-overwrite.php:415
+msgid "Almost the highest bidder!"
+msgstr "Bijna de hoogste bieder!"
+
+#: includes/classes/class-wac-actions-overwrite.php:416
+msgid ""
+"You are one of the highest bidders. The landlord will consider you after "
+"approaching the higher bidder(s) first."
+msgstr ""
+"Je bent één van de hoogste bieders. De makelaar over verhuurder zal je "
+"overwegen na het benaderen van de hogere bieders."
+
+#: includes/classes/class-wac-actions-overwrite.php:424
+msgid "Sorry, try again."
+msgstr "Sorry, probeer opnieuw."
+
+#: includes/classes/class-wac-actions-overwrite.php:425
+msgid ""
+"You are not one of the five highest bidders. The landlord will only consider "
+"your bid when the other bidders are not accepted. We advise you try another "
+"auction."
+msgstr ""
+"Je bent niet één van de vijf hoogste bieders. De makelaar of verhuurder zal "
+"je overwegen als e andere bieders niet zijn geaccepteerd. Wij adviseren je "
+"om het bij een andere veiling te proberen."
+
+#: includes/classes/class-wac-actions-overwrite.php:489
+msgid "How to Bid?"
+msgstr "Hoe werkt het bieden?"
+
+#: includes/classes/class-wac-actions-overwrite.php:490
+msgid ""
+"We reset the auction timer every time a bid is placed in the last 10 minutes,"
+" so no stress!"
+msgstr ""
+"We resetten de timer elke keer als er een bod is geplaats in de laatste 10 "
+"minuten, dus geen stress!"
+
+#: includes/classes/class-wac-actions-overwrite.php:494
+msgid "Register FREE to bid on this fantastic rental home."
+msgstr "Registreer GRATIS om te bieden op deze huurwoning."
+
+#: includes/classes/class-wac-actions-overwrite.php:522
+msgid "Notify me when this auction is starts"
+msgstr "Laat mij weten wanneer de veiling begint"
+
+#: includes/classes/class-wac-actions-overwrite.php:524
+msgid "Notify me when this auction is about to end"
+msgstr "Laat mij wanneer de veiling bijna eindigt"
+
+#: includes/classes/class-wac-actions-overwrite.php:529
+msgid "Your email"
+msgstr "Je e-mailadres"
+
+#: includes/classes/class-wac-actions-overwrite.php:531
+msgid "Subscribe"
+msgstr "Geef je op"
+
+#: includes/classes/class-wac-actions-overwrite.php:540
+#, php-format
+msgid "Your email \"%s\" is already subscribed"
+msgstr "Je e-mailadres \"%s\" is reeds opgegeven"
+
+#: includes/admin/class-wac-admin.php:43
+#: templates/shortcode/auction-form.php:42
+msgid "Object Available From"
+msgstr "Woning beschikbaar vanaf"
+
+#: includes/admin/class-wac-admin.php:52
+#: templates/shortcode/auction-form.php:46
+msgid "Rental Period"
+msgstr "Huurperiode"
+
+#: includes/admin/class-wac-admin.php:62
+#: templates/shortcode/auction-form.php:80
+msgid "Tenant Requirements"
+msgstr "Huurdervereisten"
+
+#: includes/admin/class-wac-admin.php:64
+msgid "Tenant Requirements for auction."
+msgstr "Huurdervereisten voor de veiling."
+
+#: includes/admin/class-wac-admin.php:72
+#: templates/shortcode/auction-form.php:84
+msgid "Additional Information"
+msgstr "Additionele informatie"
+
+#: includes/admin/class-wac-admin.php:74
+msgid "Additional Information for auction."
+msgstr "Additionele informatie voor de veiling."
+
+#: includes/admin/class-wac-admin.php:149
+msgid "Vendor Information"
+msgstr ""
+
+#: includes/admin/class-wac-admin.php:152
+msgid "Vendor Company"
+msgstr ""
+
+#: includes/admin/class-wac-admin.php:155
+msgid "Vendor/Landlord Company name"
+msgstr ""
+
+#: templates/widgets/content-widget-auction.php:34
+#: templates/single-product/updatetimeleft.php:19
+msgid "Start:"
+msgstr "Start:"
+
+#: templates/widgets/content-widget-auction.php:47
+#: templates/single-product/updatetimeleft.php:30
+#: templates/single-product/auction-timeleft.php:13
+#: templates/single-product/add-to-cart/auction-vendor.php:60
+#: templates/single-product/add-to-cart/auction.php:105
+msgid "d"
+msgstr "d"
+
+#: templates/widgets/content-widget-auction.php:48
+#: templates/single-product/updatetimeleft.php:31
+#: templates/single-product/auction-timeleft.php:15
+#: templates/single-product/add-to-cart/auction-vendor.php:62
+#: templates/single-product/add-to-cart/auction.php:107
+msgid "h"
+msgstr "u"
+
+#: templates/widgets/content-widget-auction.php:49
+#: templates/single-product/updatetimeleft.php:32
+#: templates/single-product/auction-timeleft.php:17
+#: templates/single-product/add-to-cart/auction-vendor.php:64
+#: templates/single-product/add-to-cart/auction.php:109
+msgid "m"
+msgstr "m"
+
+#: templates/widgets/content-widget-auction.php:50
+#: templates/single-product/updatetimeleft.php:33
+#: templates/single-product/auction-timeleft.php:19
+#: templates/single-product/add-to-cart/auction-vendor.php:66
+#: templates/single-product/add-to-cart/auction.php:111
+msgid "s"
+msgstr "s"
+
+#: templates/shortcode/paycommission-form.php:30
+msgid "Payment Status:"
+msgstr "Betaalstatus:"
+
+#: templates/shortcode/paycommission-form.php:34
+msgid "Commission has been already paid"
+msgstr "Commissie is al betaald"
+
+#: templates/shortcode/paycommission-form.php:35
+msgid "Transaction ID: <strong>{$mollie_txnid}</strong>"
+msgstr "Transactie ID: <strong>{$mollie_txnid}</strong>"
+
+#: templates/shortcode/paycommission-form.php:40
+#: templates/shortcode/paycommission-form.php:43
+msgid "Please try again!"
+msgstr "Probeer alsjeblieft opnieuw"
+
+#: templates/shortcode/paycommission-form.php:71
+#: templates/shortcode/vendor-profile/auction-reports.php:11
+msgid "Highest Bid"
+msgstr "Hoogste bod"
+
+#: templates/shortcode/paycommission-form.php:72
+#: templates/shortcode/vendor-profile/auction-reports.php:12
+msgid "Listing Price"
+msgstr "Advertentieprijs"
+
+#: templates/shortcode/paycommission-form.php:73
+msgid "Commission (highest bid - listing price)"
+msgstr "Commissie (hoogste bod - advertentieprijs)"
+
+#: templates/shortcode/paycommission-form.php:74
+msgid "VAT (21%)"
+msgstr "BTW (21%)"
+
+#: templates/shortcode/paycommission-form.php:75
+msgid "Commission incl. VAT"
+msgstr "Commissie incl. BTW"
+
+#: templates/shortcode/auction-form.php:11
+msgid "Object details"
+msgstr "Details van de woning"
+
+#: templates/shortcode/auction-form.php:13
+msgid "Weblink of listing"
+msgstr "Link van de advertentie"
+
+#: templates/shortcode/auction-form.php:15
+msgid "Fetch"
+msgstr "Haal op"
+
+#: templates/shortcode/auction-form.php:24
+#: templates/shortcode/vendor-profile/account-details.php:55
+msgid "City"
+msgstr "Stad"
+
+#: templates/shortcode/auction-form.php:37
+msgid "Upload Auction Image"
+msgstr "Upload veilingafbeelding"
+
+#: templates/shortcode/auction-form.php:49
+msgid "Indefinite"
+msgstr "Ongedefinieerd"
+
+#: templates/shortcode/auction-form.php:50
+msgid "1 Year"
+msgstr "1 Jaar"
+
+#: templates/shortcode/auction-form.php:51
+msgid "2 Years"
+msgstr "2 Jaar"
+
+#: templates/shortcode/auction-form.php:52
+msgid "Otherwise, additional information"
+msgstr "Anders, additionele informatie"
+
+#: templates/shortcode/auction-form.php:63
+#: templates/shortcode/auction-form.php:67
+msgid "DD-MM-YYYY hh:mm"
+msgstr "DD-MM-JJJJ uu:mm"
+
+#: templates/shortcode/auction-form.php:66
+msgid "Auction Close"
+msgstr "Veiling Sluit"
+
+#: templates/shortcode/auction-form.php:70
+msgid "Listing price in Euro"
+msgstr "Advertentieprijs in Euro:"
+
+#: templates/shortcode/auction-form.php:74
+msgid "Start price in Euro"
+msgstr "Startprijs in Euro"
+
+#: templates/shortcode/auction-form.php:78
+msgid "Other Information"
+msgstr "Andere informatie"
+
+#: templates/shortcode/auction-form.php:88
+msgid "Questions? Please call +31(0) 202 258 340"
+msgstr "Vragen? Bel 020 2258 340"
+
+#: templates/shortcode/auction-form.php:91
+#, php-format
+msgid "I understand and accept the %s terms and conditions %s."
+msgstr "Ik begrijp en accepteer de %s gebruiksvoorwaarden %s"
+
+#: templates/shortcode/auction-form.php:94
+#: templates/shortcode/auction-form.php:109
+msgid "Preview Auction"
+msgstr "Preview veiling"
+
+#: templates/shortcode/auction-form.php:118
+msgid "Start Price:"
+msgstr "Startprijs:"
+
+#: templates/shortcode/auction-form.php:126
+msgid "Auction will start in"
+msgstr "De veiling start in"
+
+#: templates/shortcode/auction-form.php:129
+msgid "Auction already started"
+msgstr "Veiling al gestart"
+
+#: templates/shortcode/auction-form.php:140
+msgid "City:"
+msgstr "Stad:"
+
+#: templates/shortcode/auction-form.php:144
+msgid "Listing Price:"
+msgstr "Advertentieprijs:"
+
+#: templates/shortcode/auction-form.php:148
+msgid "Deposit:"
+msgstr "Borg:"
+
+#: templates/shortcode/auction-form.php:152
+msgid "Available from:"
+msgstr "Beschikbaar per:"
+
+#: templates/shortcode/auction-form.php:156
+msgid "Rental Period:"
+msgstr "Huurperiode:"
+
+#: templates/shortcode/auction-form.php:160
+msgid "Listed By:"
+msgstr "Aangeboden door:"
+
+#: templates/shortcode/auction-form.php:171
+msgid "Additional (financial) information:"
+msgstr "Additionele (financiële) informatie:"
+
+#: templates/shortcode/auction-form.php:175
+msgid "Tenant Requirements:"
+msgstr "Huurder vereisten:"
+
+#: templates/shortcode/auction-form.php:182
+msgid "Bid History"
+msgstr "Biedgeschiedenis"
+
+#: templates/shortcode/auction-form.php:188
+msgid "Make Changes"
+msgstr "Pas aan"
+
+#: templates/shortcode/auction-form.php:189
+msgid "Submit"
+msgstr "Verzend"
+
+#: templates/single-product/list-bids.php:30
+#: templates/single-product/list-bids.php:98
+#: templates/shortcode/vendor-profile/auction-detail.php:38
+msgid "There is no bid for this auction"
+msgstr "Er is geen bod voor deze veiling"
+
+#: templates/single-product/list-bids.php:37
+msgid "Bid Amount"
+msgstr "Bod bedrag"
+
+#: templates/single-product/list-bids.php:38
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: templates/single-product/list-bids.php:39
+msgid "Datetime"
+msgstr "Datum tijd"
+
+#: templates/single-product/max-bidder.php:8
+msgid "Bid up: "
+msgstr "Bied op:"
+
+#: templates/single-product/max-bidder.php:8
+msgid "Bid up: No bid up"
+msgstr "Bied op: Geen bied op:"
+
+#: templates/single-product/max-bidder.php:14
+#, php-format
+msgid "Overtime: %s min"
+msgstr "Extra tijd: %s min"
+
+#: templates/single-product/max-bidder.php:14
+msgid "No overtime"
+msgstr "Geen extra tijd"
+
+#: templates/single-product/max-bidder.php:19
+msgid "Total used from pool of money for automatic bid up."
+msgstr "Totaal gebruik van pool van geld voor automatisch bieden."
+
+#: templates/single-product/max-bidder.php:20
+msgid ""
+"Number of minutes added to the auction if a bid is made within the overtime "
+"range."
+msgstr ""
+"Aantal minuten dat wordt toegevoegd aan de veiling wanneer een bod is gedaan "
+"binnen de extra tijd range."
+
+#: templates/single-product/max-bidder.php:35
+msgid " You are currently the highest bidder for this auction"
+msgstr "Je bent momenteel de hoogste bieder van deze veiling"
+
+#: templates/single-product/max-bidder.php:35
+msgid "Refresh the page regularly to see if you are still the highest bidder"
+msgstr ""
+"Ververs de pagina regelmatig om te zien of je nog steeds de hoogste bieder "
+"bent"
+
+#: templates/single-product/max-bidder.php:37
+msgid ""
+"If your bid is higher or equivalent to the reserve price, your bid will "
+"match the reserve price with the remaining saved and used automatically to "
+"outbid a competitors bid."
+msgstr ""
+"Als je bod hoger of gelijk is aan de startprijs, je bod zal gelijk zijn aan "
+"de startprijs en de rest wordt automatisch gebruikt om een ander bod te "
+"overbieden."
+
+#: templates/single-product/max-bidder.php:40
+#, php-format
+msgid "Your maximum %1$s: %2$s"
+msgstr "Je maximum %1$s: %2$s"
+
+#: templates/single-product/auction-timeleft.php:23
+msgid "Auction ends: "
+msgstr "Veiling sluit:"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:24
+msgid "​Auction - Live for Vendor"
+msgstr "Veiling - Live voor verhuurder"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:29
+msgid "Email to Vendor when auction status changed to live."
+msgstr "Email naar verhuurder als veiling live gaat."
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:32
+msgid "Your auction is now Live"
+msgstr "Je veiling is nu live"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:34
+msgid "Your {sitename} {auction_title} Auction is Online"
+msgstr "Je {sitename} {auction_title} veiling is nu online"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:125
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:140
+#: includes/classes/emails/class-wac-auction-submitted.php:124
+#: includes/classes/emails/class-wac-auction-closed.php:130
+#: includes/classes/emails/class-wac-auction-approved.php:138
+#: includes/classes/emails/class-wac-auction-live-tenants.php:132
+msgid "Enable/Disable"
+msgstr "Activeer/Deactiveer"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:127
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:142
+#: includes/classes/emails/class-wac-auction-submitted.php:126
+#: includes/classes/emails/class-wac-auction-closed.php:132
+#: includes/classes/emails/class-wac-auction-approved.php:140
+#: includes/classes/emails/class-wac-auction-live-tenants.php:134
+msgid "Enable this email notification"
+msgstr "Activeer deze email notificatie"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:132
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:147
+#: includes/classes/emails/class-wac-auction-submitted.php:131
+#: includes/classes/emails/class-wac-auction-closed.php:137
+#: includes/classes/emails/class-wac-auction-approved.php:145
+#: includes/classes/emails/class-wac-auction-live-tenants.php:139
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:134
+#: includes/classes/emails/class-wac-auction-live-vendor.php:141
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:149
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:156
+#: includes/classes/emails/class-wac-auction-submitted.php:133
+#: includes/classes/emails/class-wac-auction-submitted.php:140
+#: includes/classes/emails/class-wac-auction-closed.php:139
+#: includes/classes/emails/class-wac-auction-closed.php:146
+#: includes/classes/emails/class-wac-auction-approved.php:147
+#: includes/classes/emails/class-wac-auction-approved.php:154
+#: includes/classes/emails/class-wac-auction-live-tenants.php:141
+#: includes/classes/emails/class-wac-auction-live-tenants.php:148
+#, php-format
+msgid "Default: <code>%s</code>."
+msgstr "Standaard: <code>%s</code>."
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:139
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:154
+#: includes/classes/emails/class-wac-auction-submitted.php:138
+#: includes/classes/emails/class-wac-auction-closed.php:144
+#: includes/classes/emails/class-wac-auction-live-tenants.php:146
+msgid "Email Heading"
+msgstr "Email titel"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:146
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:161
+#: includes/classes/emails/class-wac-auction-submitted.php:145
+#: includes/classes/emails/class-wac-auction-closed.php:151
+#: includes/classes/emails/class-wac-auction-approved.php:159
+#: includes/classes/emails/class-wac-auction-live-tenants.php:153
+msgid "Email type"
+msgstr "Email type"
+
+#: includes/classes/emails/class-wac-auction-live-vendor.php:148
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:163
+#: includes/classes/emails/class-wac-auction-submitted.php:147
+#: includes/classes/emails/class-wac-auction-closed.php:153
+#: includes/classes/emails/class-wac-auction-approved.php:161
+#: includes/classes/emails/class-wac-auction-live-tenants.php:155
+msgid "Choose the email format to send."
+msgstr "Kies het email format om te versturen."
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:24
+msgid "​Auction - Closed for Tenants"
+msgstr "Veiling - Gesloten voor huurders"
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:29
+msgid "Email to 2nd to 5th bidders, when auction closed."
+msgstr "Email naar 2e en 5 hoogste bieders, wanneer veiling is gesloten."
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:32
+msgid "Auction has been closed"
+msgstr "De veiling is gesloten"
+
+#: includes/classes/emails/class-wac-auction-closed-tenants.php:34
+msgid "{auction_title} auction has been closed."
+msgstr "{auction_title} veiling is gesloten."
+
+#: includes/classes/emails/class-wac-auction-submitted.php:25
+msgid "​Auction - Submitted"
+msgstr "Veiling - Verzonden"
+
+#: includes/classes/emails/class-wac-auction-submitted.php:30
+msgid "On auction submitted by Landlord/Agent, automation email to Agent"
+msgstr ""
+"Wanneer veiling is verzonden door verhuurder/makelaar, automatische email "
+"naar makelaar"
+
+#: includes/classes/emails/class-wac-auction-submitted.php:33
+msgid "You have submitted an auction request"
+msgstr "Je hebt een veilingverzoek verzonden"
+
+#: includes/classes/emails/class-wac-auction-submitted.php:35
+msgid "Your TheNextBid {auction_title} Auction Request Submitted"
+msgstr "Je TheNextBid {auction_title} veilingverzoek is verzonden"
+
+#: includes/classes/emails/class-wac-auction-closed.php:24
+msgid "​Auction - Closed"
+msgstr "Veiling - Gesloten"
+
+#: includes/classes/emails/class-wac-auction-closed.php:29
+msgid "Email to Landlord/Agent when auction closed and ready to pay."
+msgstr ""
+"Email naar landlord/agent wanneer veiling gesloten is en de commissie "
+"betaald kan worden."
+
+#: includes/classes/emails/class-wac-auction-closed.php:32
+msgid "Your auction has been closed, ‘please pay’"
+msgstr "Je veiling is gesloten, voldoe alsjeblieft de commissie"
+
+#: includes/classes/emails/class-wac-auction-closed.php:34
+msgid ""
+"Your TheNextBid {auction_title} Auction is Closed, Get Your Auction Report "
+"Now!"
+msgstr ""
+"Je TheNextBid {auction_title} Veiling is gesloten. Verkrijg nu je "
+"veilingrapport!"
+
+#: includes/classes/emails/class-wac-auction-approved.php:25
+msgid "​Auction - Approved"
+msgstr "Veiling - Goedgekeurd"
+
+#: includes/classes/emails/class-wac-auction-approved.php:30
+msgid "Email to Landlord/Agent when auction approved and online."
+msgstr "Email naar landlord/agent wanneer veiling goedgekeurd en online is."
+
+#: includes/classes/emails/class-wac-auction-approved.php:33
+msgid "Your request has been approved"
+msgstr "Je verzoek is goedgekeurd"
+
+#: includes/classes/emails/class-wac-auction-approved.php:35
+msgid "Your {sitename} {account_name} Auction Request is Approved and Online"
+msgstr "Je {sitename} {account_name} veilingrapport is goedgekeurd en online"
+
+#: includes/classes/emails/class-wac-auction-live-tenants.php:24
+msgid "​Auction - Live for Tenants"
+msgstr "Veiling - Live voor huurders"
+
+#: includes/classes/emails/class-wac-auction-live-tenants.php:29
+msgid "Email to All Tenants when auction status changed to live."
+msgstr "Email naar alle huurder wanneer de veiling live wordt."
+
+#: includes/classes/emails/class-wac-auction-live-tenants.php:32
+msgid "Auction Live for Tenants"
+msgstr "De veiling live voor huurders"
+
+#: includes/classes/emails/class-wac-auction-live-tenants.php:34
+msgid "Your {sitename} subscribed {auction_title} Auction is Online"
+msgstr "Je {sitename} opgegeven {auction_title} veiling is live"
+
+#: templates/shortcode/vendor-profile/vendor-allowed.php:1
+msgid "Login with Landlord account!"
+msgstr "Login met een verhuurder of makelaar account!"
+
+#: templates/shortcode/vendor-profile/auction-reports.php:10
+#: templates/shortcode/vendor-profile/dashboard.php:10
+msgid "Auctions"
+msgstr "Veilingen"
+
+#: templates/shortcode/vendor-profile/auction-reports.php:13
+msgid "# bidders"
+msgstr "# bieders"
+
+#: templates/shortcode/vendor-profile/auction-reports.php:14
+msgid "# bids"
+msgstr "# biedingen"
+
+#: templates/shortcode/vendor-profile/auction-reports.php:15
+msgid "Closing Date"
+msgstr "Sluitingsdatum"
+
+#: templates/shortcode/vendor-profile/auction-reports.php:16
+#: templates/shortcode/vendor-profile/dashboard.php:16
+msgid "Auction Report"
+msgstr "Veilingrapport"
+
+#: templates/shortcode/vendor-profile/auction-reports.php:42
+msgid "Note: Only closed auctions are visible in this overview."
+msgstr "NB: Alleen gesloten veilingen zijn zichtbaar in dit overzicht."
+
+#: templates/shortcode/vendor-profile/auction-reports.php:45
+msgid "No Auction to display!"
+msgstr "Geen veiling om te laten zien!"
+
+#: templates/shortcode/vendor-profile/account-details.php:19
+msgid "First Name"
+msgstr "Voornaam"
+
+#: templates/shortcode/vendor-profile/account-details.php:21
+msgid "Enter your First Name here"
+msgstr "Type hier je voornaam in"
+
+#: templates/shortcode/vendor-profile/account-details.php:25
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: templates/shortcode/vendor-profile/account-details.php:27
+msgid "Enter your Last Name here"
+msgstr "Type hier je achternaam in"
+
+#: templates/shortcode/vendor-profile/account-details.php:31
+msgid "Company Name"
+msgstr "Bedrijfsnaam"
+
+#: templates/shortcode/vendor-profile/account-details.php:33
+msgid "Enter your Company Name here"
+msgstr "Type hier je bedrijfsnaam in"
+
+#: templates/shortcode/vendor-profile/account-details.php:37
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: templates/shortcode/vendor-profile/account-details.php:39
+msgid "Enter your Email Address here"
+msgstr "Type hier je e-mailadres in"
+
+#: templates/shortcode/vendor-profile/account-details.php:43
+#: templates/shortcode/vendor-profile/auction-detail.php:55
+msgid "Phone"
+msgstr "Telefoon"
+
+#: templates/shortcode/vendor-profile/account-details.php:45
+msgid "Enter your Phone here"
+msgstr "Type hier je telefoonnummer in"
+
+#: templates/shortcode/vendor-profile/account-details.php:49
+msgid "Billing Address"
+msgstr "Factuuradres"
+
+#: templates/shortcode/vendor-profile/account-details.php:51
+msgid "Enter your Billing Address here"
+msgstr "Type hier factuuradres in"
+
+#: templates/shortcode/vendor-profile/account-details.php:57
+msgid "Enter your City here"
+msgstr "Type hier je stad in"
+
+#: templates/shortcode/vendor-profile/account-details.php:61
+msgid "Zip Code"
+msgstr "Postcode"
+
+#: templates/shortcode/vendor-profile/account-details.php:63
+msgid "Enter your Zip Code here"
+msgstr "Type hier je postcode in"
+
+#: templates/shortcode/vendor-profile/account-details.php:68
+msgid "Change Password"
+msgstr "Verander wachtwoord"
+
+#: templates/shortcode/vendor-profile/account-details.php:71
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: templates/shortcode/vendor-profile/account-details.php:73
+msgid "Enter your current password here"
+msgstr "Type hier je huidige wachtwoord in"
+
+#: templates/shortcode/vendor-profile/account-details.php:77
+msgid "New Password"
+msgstr "Nieuw wachtwoord"
+
+#: templates/shortcode/vendor-profile/account-details.php:79
+msgid "Enter your New password here"
+msgstr "Type hier je nieuwe wachtwoord in"
+
+#: templates/shortcode/vendor-profile/account-details.php:84
+msgid "Profile Pic"
+msgstr "Profielfoto"
+
+#: templates/shortcode/vendor-profile/account-details.php:89
+msgid "Upload"
+msgstr "Upload"
+
+#: templates/shortcode/vendor-profile/account-details.php:90
+msgid "Replace"
+msgstr "Vervang"
+
+#: templates/shortcode/vendor-profile/account-details.php:103
+msgid "Save Profile"
+msgstr "Sla profiel op"
+
+#: templates/shortcode/vendor-profile/dashboard.php:11
+msgid "Status"
+msgstr "Status"
+
+#: templates/shortcode/vendor-profile/dashboard.php:12
+msgid "Listing price"
+msgstr "Advertentieprijs"
+
+#: templates/shortcode/vendor-profile/dashboard.php:13
+msgid "Current price"
+msgstr "Huidige prijs"
+
+#: templates/shortcode/vendor-profile/dashboard.php:14
+msgid "Time"
+msgstr "Tijd"
+
+#: templates/shortcode/vendor-profile/dashboard.php:15
+msgid "Billing Status"
+msgstr "Betaalstatus"
+
+#: templates/shortcode/vendor-profile/dashboard.php:40
+msgid "No Auction to display, Click on Start Auction to generate new Auction!"
+msgstr ""
+"Geen veiling om te laten zien. Klik op Start Veiling om een nieuwe veiling "
+"aan te maken!"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:8
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:14
+msgid "No Auction found with id."
+msgstr "Geen veiling gevonden met id."
+
+#: templates/shortcode/vendor-profile/auction-detail.php:18
+msgid "Not Authorized to view"
+msgstr "Niet toestemming om te zien"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:26
+msgid "Please check and pay your auction commission on the following page:"
+msgstr "Betaal alsjeblieft de veilingcommissie op de volgende pagina:"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:48
+msgid "Name"
+msgstr "Naam"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:49
+msgid "Highest bid"
+msgstr "Hoogste bod"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:50
+msgid "Income"
+msgstr "Inkomen"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:51
+msgid "Source of Income"
+msgstr "Bron van inkomsten"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:52
+msgid "DoB"
+msgstr "Geb."
+
+#: templates/shortcode/vendor-profile/auction-detail.php:53
+msgid "Housemates"
+msgstr "Huisgenoten"
+
+#: templates/shortcode/vendor-profile/auction-detail.php:54
+msgid "E-mail"
+msgstr "E-mail"
+
+#: templates/single-product/add-to-cart/auction-vendor.php:53
+#: templates/single-product/add-to-cart/auction.php:98
+msgid "Auction is not open yet"
+msgstr "Veiling is nog niet geopend"
+
+#: templates/single-product/add-to-cart/auction-vendor.php:55
+#: templates/single-product/add-to-cart/auction.php:100
+msgid "Time left to start auction:"
+msgstr "Resterende tijd voor start veiling:"
+
+#: templates/single-product/add-to-cart/auction.php:72
+msgid "Bid"
+msgstr "Bod"
+
+#. Name of the plugin
+msgid "Woocommerce Auction"
+msgstr "Woocommerce Auction"
+
+#. Description of the plugin
+msgid ""
+"Create auctions, manage commissions and frontend profiles (Vendor/Landlord, "
+"Tenant)."
+msgstr ""
+
+#. Author of the plugin
+msgid "Deftsoft"
+msgstr "Deftsoft"

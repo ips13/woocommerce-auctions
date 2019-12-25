@@ -1,0 +1,1 @@
+<h3 class="wcmp_black_headding"><?php echo __('Login with Landlord account!','woo-auction'); ?></h3>
